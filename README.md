@@ -39,8 +39,8 @@ Note : Bigger models will give better performace.
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git https://github.com/mehul-kocheta/Resume_Parser
+cd Resume_Parser
 ```
 
 ### Run the Script
